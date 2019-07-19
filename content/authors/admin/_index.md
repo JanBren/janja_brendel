@@ -24,12 +24,9 @@ organizations:
   url: "https://www.wiwi.hu-berlin.de/de/professuren/bwl/rwuwp/staff"
 role: PhD Candidate
 social:
-- icon: envelope
+- icon: linkedin
   icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: 
+  link: 'https://www.linkedin.com/in/jbrendel/'
 - icon: google-scholar
   icon_pack: ai
   link: 
@@ -38,8 +35,7 @@ social:
   link: 
 superuser: true
 user_groups:
-- Researchers
-- Visitors
+
 ---
 
 I am a PhD candidate Humboldt-University of Berlin. Since 2016, I have been working as a research and teaching assistant at the Institute of Accounting and Auditing at the chair of Joachim Gassen. Before returnng to my academic roots, I took a detour through corporate development jobs and through the thrill of investment banking (M&A and restructuring) where I worked in Europe and China. This detour helped me to better understand some of the concepts I have learned at school and university and it also helped me to see potential for interesting questions.
