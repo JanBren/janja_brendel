@@ -15,8 +15,8 @@ education:
     year: 2007/10
 email: "janja.brendel@hu-berlin.de"
 interests:
-- Voluntary disclosures related to short sellers and financial institutions
-- China
+- Accounting research related to short sellers and financial institutions
+- China (economy, culture, language and food ;))
 - Programming in R or Python (to make my life easier)
 name: Janja Brendel
 organizations:
