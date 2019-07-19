@@ -2,6 +2,7 @@
 authors:
 - admin
 bio: 
+
 education:
   courses:
   - course: PhD in Accounting
@@ -13,16 +14,21 @@ education:
   - course: B.Sc. in Accounting and Finance
     institution: London School of Economics and Political Science
     year: 2007/10
+
 email: "janja.brendel@hu-berlin.de"
+
 interests:
-- Accounting research related to short sellers and financial institutions
+- Accounting research; esp. related to short sellers and financial institutions
 - China (economy, culture, language and food ;))
 - Programming in R or Python (to make my life easier)
+
 name: Janja Brendel
 organizations:
 - name: Humboldt University of Berlin
   url: "https://www.wiwi.hu-berlin.de/de/professuren/bwl/rwuwp/staff"
+
 role: PhD Candidate
+
 social:
 - icon: google-scholar
   icon_pack: ai
@@ -30,6 +36,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/JanBren
+
 superuser: false
 user_groups:
 
@@ -39,4 +46,4 @@ I am a PhD candidate Humboldt-University of Berlin. Since 2016, I have been work
 
 My interest in academic work has started at LSE, where I completed my post- and undergraduate studies. Professors gave us a lot (really  a lot!!!) of research papers to read and raised a lot of conceptual issues during their lectures. This helped to train us to become independet thinkers and future scholars. In hindsight, this was probably the best training for my PhD. While completing the course work of the Berlin Doctoral Program of Economics and Management Science (BDPEMS), it also helped me to start to work on my own projects. Still obsessed with learning new things, I still enjoy going to interesting courses, such as courses on machine learning. 
 
-Generally, I am interested in empirical financial accounting research. Particularly, I am interested in understanding the determinants and consequences of firms’ financial transparency as well as the consequences of disclosure regulation in capital markets. I have a distinct interest in short sellers as well as financial institutions.
+I am interested in empirical financial accounting research in general. Particularly, I am interested in understanding the determinants and consequences of firms’ financial transparency as well as the consequences of disclosure regulation in capital markets. I have a distinct interest in short sellers as well as financial institutions.
