@@ -63,7 +63,7 @@ phone = "+49 30 2093 99445"
 address = "Dorotheenstraße 1, 10117 Berlin, Germany"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "on appointment""
+office_hours = "on appointment"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
