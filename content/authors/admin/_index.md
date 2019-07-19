@@ -24,16 +24,13 @@ organizations:
   url: "https://www.wiwi.hu-berlin.de/de/professuren/bwl/rwuwp/staff"
 role: PhD Candidate
 social:
-- icon: linkedin
-  icon_pack: fas
-  link: 'https://www.linkedin.com/in/jbrendel/'
 - icon: google-scholar
   icon_pack: ai
   link: 
 - icon: github
   icon_pack: fab
-  link: 
-superuser: true
+  link: https://github.com/JanBren
+superuser: false
 user_groups:
 
 ---
