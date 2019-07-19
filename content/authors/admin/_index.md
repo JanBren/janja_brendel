@@ -5,25 +5,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Accounting
+    institution: Humboldt University of Berlin
+    year: since 2015
+  - course: M.Sc. in Accounting and Finance
+    institution: London School of Economics and Political Science
+    year: 2014/15
+  - course: B.Sc. in Accounting and Finance
+    institution: London School of Economics and Political Science
+    year: 2007/10
 email: ""
-interests:
+Research interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Janja Brendel
 organizations:
-- name: Stanford University
+- name: Humboldt University of Berlin
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +43,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate Humboldt-University of Berlin. I work as a research assistant at the Institute of Accounting and Auditing at the chair of Joachim Gassen. Before that, I worked in Investment Banking.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I completed the course work of the Berlin Doctoral Program of Economics and Management Science in 2017 but enjoy going to interesting courses offered. Completed courses include: to come
+
+Generally, I am interested in empirical financial accounting research. Particularly, I am interested in understanding the determinants and consequences of firms’ financial transparency as well as the consequences of disclosure regulation in capital markets. I have a distinct interest in short sellers as well as financial institutions.
