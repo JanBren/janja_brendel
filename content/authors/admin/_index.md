@@ -14,10 +14,10 @@ education:
     institution: London School of Economics and Political Science
     year: 2007/10
 email: "janja.brendel@hu-berlin.de"
-Research interests:
-- Voluntary disclosures
-- Short sellers
-- Financial institutions
+interests:
+- Voluntary disclosures related to short sellers and financial institutions
+- China
+- Programming in R or Python (to make my life easier)
 name: Janja Brendel
 organizations:
 - name: Humboldt University of Berlin
